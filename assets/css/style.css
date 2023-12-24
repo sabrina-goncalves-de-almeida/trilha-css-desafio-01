@@ -1,0 +1,62 @@
+@import url(./reset.css);
+
+body {
+    background-color: black;
+}
+
+section {
+    margin: 100% auto;
+}
+
+div {
+    margin: auto;
+}
+
+img {
+    margin: auto;
+}
+
+.banner {
+    background-image: url(../images/banner.png);
+    background-size: cover;
+    margin: auto;
+}
+
+.banner .banner-content {
+    justify-content: center;
+    background-color: #33a9db6b;
+    margin: auto;
+    text-align: center;
+}
+
+.logo {
+    margin: auto;
+    width: 250px;
+    background-color: rgba(0, 0, 0, 0.364);
+    border-radius: 50%;
+
+}
+
+.modules-list {
+    margin: auto;
+}
+
+.module {
+    margin: auto;
+}
+
+.dio-logo {
+    margin: auto;
+}
+
+#course-content {
+    margin: auto;
+}
+
+#transform-world {
+    margin: auto;
+}
+
+#professional-challenges {
+    margin: auto;
+}
